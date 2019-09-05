@@ -1,4 +1,4 @@
-module github.com/wojteninho/confita
+module github.com/asappinc/confita
 
 require (
 	github.com/coreos/etcd v3.3.3+incompatible
