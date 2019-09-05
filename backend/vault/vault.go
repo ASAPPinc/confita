@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
+	"github.com/asappinc/confita/backend"
 	"github.com/hashicorp/vault/api"
-	"github.com/heetch/confita/backend"
 )
 
 // Backend loads keys from Vault

@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/heetch/confita"
+	"github.com/asappinc/confita"
 	"github.com/pkg/errors"
 )
 

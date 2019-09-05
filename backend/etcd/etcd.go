@@ -5,8 +5,8 @@ import (
 	"path"
 	"strings"
 
+	"github.com/asappinc/confita/backend"
 	"github.com/coreos/etcd/clientv3"
-	"github.com/heetch/confita/backend"
 )
 
 // Backend loads keys from etcd.

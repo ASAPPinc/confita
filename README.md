@@ -1,8 +1,8 @@
 ![](https://user-images.githubusercontent.com/4570448/40795774-57ad2ae2-6503-11e8-8448-328094f4091f.png)
 
 [![Build Status](https://travis-ci.org/heetch/confita.svg?branch=master)](https://travis-ci.org/heetch/confita)
-[![GoDoc](https://godoc.org/github.com/heetch/confita?status.svg)](https://godoc.org/github.com/heetch/confita)
-[![Go Report Card](https://goreportcard.com/badge/github.com/heetch/confita)](https://goreportcard.com/report/github.com/heetch/confita)
+[![GoDoc](https://godoc.org/github.com/asappinc/confita?status.svg)](https://godoc.org/github.com/asappinc/confita)
+[![Go Report Card](https://goreportcard.com/badge/github.com/asappinc/confita)](https://goreportcard.com/report/github.com/asappinc/confita)
 
 Confita is a library that loads configuration from multiple backends and stores it in a struct.
 
@@ -20,7 +20,7 @@ Confita is a library that loads configuration from multiple backends and stores 
 ## Install
 
 ```sh
-go get -u github.com/heetch/confita
+go get -u github.com/asappinc/confita
 ```
 
 ## Usage
